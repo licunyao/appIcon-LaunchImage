@@ -16,14 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    // 删除系统带的Assets.xcassets文件中的Appicon，新建一个Appicon，里面的多了一行！
+    // 按照系统给的尺寸，依次添加进去图片即可！
+    
 }
 
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
 
 
 @end
