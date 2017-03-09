@@ -14,6 +14,7 @@
 		B24847A91E715267008F6DED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B24847A81E715267008F6DED /* Assets.xcassets */; };
 		B24847AC1E715267008F6DED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B24847AA1E715267008F6DED /* LaunchScreen.storyboard */; };
 		B24847B71E715267008F6DED /* icon_LaunchImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B24847B61E715267008F6DED /* icon_LaunchImageTests.m */; };
+		B24847C21E7157B0008F6DED /* launchScreenImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B24847C11E7157B0008F6DED /* launchScreenImage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		B24847B21E715267008F6DED /* icon-LaunchImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "icon-LaunchImageTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B24847B61E715267008F6DED /* icon_LaunchImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = icon_LaunchImageTests.m; sourceTree = "<group>"; };
 		B24847B81E715267008F6DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B24847C11E7157B0008F6DED /* launchScreenImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = launchScreenImage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		B248479C1E715267008F6DED /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B24847C11E7157B0008F6DED /* launchScreenImage.jpg */,
 				B248479D1E715267008F6DED /* main.m */,
 			);
 			name = "Supporting Files";
@@ -197,6 +200,7 @@
 			files = (
 				B24847AC1E715267008F6DED /* LaunchScreen.storyboard in Resources */,
 				B24847A91E715267008F6DED /* Assets.xcassets in Resources */,
+				B24847C21E7157B0008F6DED /* launchScreenImage.jpg in Resources */,
 				B24847A71E715267008F6DED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
